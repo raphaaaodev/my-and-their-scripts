@@ -1,0 +1,1 @@
+powershell.exe -noprofile -executionpolicy bypass -file ".\Remover.ps1" -noexit
